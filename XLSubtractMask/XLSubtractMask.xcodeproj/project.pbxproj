@@ -14,6 +14,9 @@
 		31B590ED21BEAF6100183B42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31B590EB21BEAF6100183B42 /* LaunchScreen.storyboard */; };
 		31B590F021BEAF6100183B42 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B590EF21BEAF6100183B42 /* main.m */; };
 		31B590F821BEB01000183B42 /* UIView+XLSubtractMask.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B590F721BEB01000183B42 /* UIView+XLSubtractMask.m */; };
+		9FCDEC1C21BFA4A6003F362D /* color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FCDEC1B21BFA4A6003F362D /* color.jpg */; };
+		9FCDEC1E21BFA4B2003F362D /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FCDEC1D21BFA4B2003F362D /* background.jpg */; };
+		9FCDEC2021BFA4B9003F362D /* pikaqiu.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FCDEC1F21BFA4B9003F362D /* pikaqiu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,9 @@
 		31B590EF21BEAF6100183B42 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		31B590F621BEB01000183B42 /* UIView+XLSubtractMask.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+XLSubtractMask.h"; sourceTree = "<group>"; };
 		31B590F721BEB01000183B42 /* UIView+XLSubtractMask.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+XLSubtractMask.m"; sourceTree = "<group>"; };
+		9FCDEC1B21BFA4A6003F362D /* color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = color.jpg; sourceTree = "<group>"; };
+		9FCDEC1D21BFA4B2003F362D /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		9FCDEC1F21BFA4B9003F362D /* pikaqiu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pikaqiu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,9 +73,12 @@
 				31B590E421BEAF6000183B42 /* ViewController.m */,
 				31B590E621BEAF6000183B42 /* Main.storyboard */,
 				31B590E921BEAF6100183B42 /* Assets.xcassets */,
+				9FCDEC1D21BFA4B2003F362D /* background.jpg */,
 				31B590EB21BEAF6100183B42 /* LaunchScreen.storyboard */,
+				9FCDEC1B21BFA4A6003F362D /* color.jpg */,
 				31B590EE21BEAF6100183B42 /* Info.plist */,
 				31B590EF21BEAF6100183B42 /* main.m */,
+				9FCDEC1F21BFA4B9003F362D /* pikaqiu.png */,
 				31B590F621BEB01000183B42 /* UIView+XLSubtractMask.h */,
 				31B590F721BEB01000183B42 /* UIView+XLSubtractMask.m */,
 			);
@@ -134,8 +143,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				31B590ED21BEAF6100183B42 /* LaunchScreen.storyboard in Resources */,
+				9FCDEC1E21BFA4B2003F362D /* background.jpg in Resources */,
 				31B590EA21BEAF6100183B42 /* Assets.xcassets in Resources */,
 				31B590E821BEAF6000183B42 /* Main.storyboard in Resources */,
+				9FCDEC2021BFA4B9003F362D /* pikaqiu.png in Resources */,
+				9FCDEC1C21BFA4A6003F362D /* color.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
